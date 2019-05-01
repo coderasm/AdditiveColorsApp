@@ -1,0 +1,3 @@
+Draw three overlaping circles equidistant from a concentric center.
+Fill each circle with a color whose opaqueness is reduced by half.
+Draw labels for each resulting color.
